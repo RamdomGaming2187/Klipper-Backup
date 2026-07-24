@@ -1,9 +1,14 @@
 .env
 secrets.conf
+*.bak
+*.bkp
 *.swp
 *.tmp
+*.csv
 printer-[0-9]*_[0-9]*.cfg
+*.zip
 *.bak
+ShakeTune_results
 *.bkp
 *.csv
 *.zip
